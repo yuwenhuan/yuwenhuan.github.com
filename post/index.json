@@ -9,5 +9,6 @@
     "articles":[
         {"title": "Hello World", "file": "2014-09-23-HELLO-WORLD", "cate":"work"},
 		{"title": "凯文的新玩具", "file": "2016-02-10-Kevin-Toy", "cate":"other"}
+        {"title": "凯文的新玩具", "file": "2018-07-15-Japan", "cate":"life"}
     ]
 }

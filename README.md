@@ -1,52 +1,46 @@
-# [多多de棉花糖](http://hugcoday.github.com)
+# Jekyll-Bootstrap
 
+The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
-本博客是基于[小天天博客](https://github.com/onlytiancai/xiaotiantian)  
-并在此基础上修改完善。
+## Usage
 
-###本博客特色：
+For all usage and documentation please see: <http://jekyllbootstrap.com>
 
-* 纯js博客
-* json列表
-* 代码高亮展示,默认使用[highlight.js](http://softwaremaniacs.org/soft/highlight/en/)，修改样式直接替换css/default.css样式即可
-* 首页显示最新10篇文章简介
-* 首页增加分页（新增）
-* 首页增加最新评论、近期访客（使用[多说](http://duoshuo.com)评论）
-* 增加回到顶端按钮
+## Version
 
+0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
 
-###计划改善
+**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
+However, the actual API has not changed at all.
+You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
 
-* 个人信息展示
-* 优化分类
-* 友情链接
-* 广告位
-* 多样式切换
-* 博客置顶
+## Contributing 
 
-###使用方式
+This repository tracks 2 projects:
 
-* 在post文件夹下新建文件，文件名为：日期+标题，文件以.md结尾，例如：2012-12-12-hello-world.md
-
-* 修改post/index.json文件，其中
-	
-	site_name为站点名称；
-	copyright 为版权标示；
-	cates为文章分类；
-	articles为文章列表。
-
-例如
-	
-增加2012-12-12-hello-world.md,articles中增加一条记录
+- **Jekyll-Bootstrap Framework.**  
+  The framework for which users should clone and build their blog on top of is available in the master branch.
+  
+  To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
+  This is very important as it allows me to accept your pull request without having to publish a public version release.
+  
+  Small, atomic Features, bugs, etc.   
+  Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.   
+  Please rebase as often as possible when working.   
+  Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
+  
+  For Big Features or major API extensions/edits:   
+  This is the one case where I'll accept pull-requests based off the master branch.
+  This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
+  Translation : it might take a bit longer so please be patient! (but sincerely thank you).
  
-	
-	{"title": "Hello World", "file": "2012-12-12-hello-world", "cate":"tech"},
+- **Jekyll-Bootstrap Documentation Website.**    
+  The documentation website at <http://jekyllbootstrap.com> is maintained in the gh-pages branch.
+  Please fork and contribute documentation additions to this branch only.
+
+The master and gh-pages branch do not share the same ancestry. Please treat them as completely separate git repositories!
 
 
-评论修改：
-	修改index.html中的
+## License
 
-	var duoshuoQuery = {short_name:"hugcoday"};
-
-替换hugcoday 为你在多说上注册的二级域名，具体参考多说帮助文档
-	
+[MIT](http://opensource.org/licenses/MIT)

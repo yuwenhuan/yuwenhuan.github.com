@@ -19,7 +19,7 @@
 还没看到公园入口，就看到很多车在最右道排队，据说这是很热门的旅游景点，周末往往人满为患，早早关门。我们是礼拜二中午抵达，人好像不算太多，大概排了十几分钟队，就进入了公园。
 
 开始往上爬，根据维基百科，山高大概130米。
-![](/images/2018-11-23-Hill-Country/DSC_0119.JPG)
+
 ![](/images/2018-11-23-Hill-Country/DSC_0123.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0130.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0134.JPG)
@@ -27,17 +27,14 @@
 
 山上的石头红红的，从网上学到这就是花岗岩。爬到半山腰，坐着吃了午饭——面包夹午餐肉。
 ![](/images/2018-11-23-Hill-Country/DSC_0147.JPG)
-![](/images/2018-11-23-Hill-Country/DSC_0155.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0156.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0161.JPG)
-![](/images/2018-11-23-Hill-Country/DSC_0169.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0176.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0181.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0185.JPG)
 
 到山顶了，慢慢爬其实不累。山顶有很多水坑：
 ![](/images/2018-11-23-Hill-Country/DSC_0202.JPG)
-![](/images/2018-11-23-Hill-Country/DSC_0205.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0217.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0225.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0230.JPG)
@@ -65,7 +62,6 @@
 
 ## Garner公园 - 圣安东尼奥 （11/22/2018）
 早上在公园里沿着河走了一下：
-![](/images/2018-11-23-Hill-Country/DSC_0398.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0406.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0438.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0439.JPG)

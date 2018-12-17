@@ -7,12 +7,12 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 markdown: redcarpet
 highlights: pygments
 lsi: false
-timezone: Asia/Shanghai
+timezone: America/Chicago
 safe: false
 
 JB :
-  ASSET_PATH : /assets
-  IMAGE_PATH : /images
+  ASSET_PATH : ./assets
+  IMAGE_PATH : ./images
 # auto: true # deprecated
 
 # Themes are encouraged to use these universal variables 

@@ -35,7 +35,6 @@
 
 到山顶了，慢慢爬其实不累。山顶有很多水坑：
 ![](/images/2018-11-23-Hill-Country/DSC_0202.JPG)
-![](/images/2018-11-23-Hill-Country/DSC_0217.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0225.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0230.JPG)
 ![](/images/2018-11-23-Hill-Country/DSC_0241.JPG)
